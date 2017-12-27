@@ -1,0 +1,11 @@
+{
+  "name": "radicalpanel",
+  "version": "1.0.0",
+  "description": "A SignalK instrument panel for yacht racing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Vause",
+  "license": "ISC"
+}
